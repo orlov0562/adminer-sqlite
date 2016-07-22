@@ -1,6 +1,10 @@
 # adminer-sqlite
 
-Adminer login form modification to support SQLite databases.
+Adminer login form modification to support SQLite databases. 
+
+Example:
+
+![alt tag](https://raw.githubusercontent.com/orlov0562/adminer-sqlite/master/example.png)
 
 #Usage
 
